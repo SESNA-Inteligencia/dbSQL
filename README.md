@@ -3,8 +3,9 @@
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="25px" height="25px"></a>
 
-# Base de programas sociales
+# Base de programas Sociales
 
+En el presente repositorio encontrará información sobre como contruir las base de datos desde los archivos fuente hasta la carga en MySQL. Actualmente se dispone únicamente de información para el [Programa de Precios de Garantía a Productos Alimentarios Básicos](https://www.gob.mx/agricultura/articulos/precios-de-garantia-a-productos-alimentarios-basicos-seguridad-y-certidumbre-a-productores)
 
 
         - Base INEGI 
