@@ -10,7 +10,7 @@
 En el presente repositorio encontrará información sobre como contruir las base de datos desde los archivos fuente hasta la carga en MySQL. Actualmente se dispone únicamente de información para el [Programa de Precios de Garantía a Productos Alimentarios Básicos](https://www.gob.mx/agricultura/articulos/precios-de-garantia-a-productos-alimentarios-basicos-seguridad-y-certidumbre-a-productores). 
 
 
-        - Base INEGI 
+        - Base [Marco Geoestadístico INEGI](https://www.inegi.org.mx/app/ageeml/)
         - Base padrón de beneficiarios SEGALMEX a nivel entidad
         - Base padrón de beneficiarios SEGALMEX a nivel municipal
         - Base padrón de beneficiarios SEGALMEX a nivel localidad
