@@ -5,7 +5,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
 </center>
 
-# Base de programas Sociales
+# Base de Programas Sociales
 
 En el presente repositorio encontrará información sobre como contruir las base de datos desde los archivos fuente hasta la carga en MySQL. Actualmente se dispone únicamente de información para el [Programa de Precios de Garantía a Productos Alimentarios Básicos](https://www.gob.mx/agricultura/articulos/precios-de-garantia-a-productos-alimentarios-basicos-seguridad-y-certidumbre-a-productores). 
 
